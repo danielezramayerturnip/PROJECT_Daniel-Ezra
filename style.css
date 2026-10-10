@@ -1,0 +1,96 @@
+/* body */
+body {
+  background-color: #2c3e50;
+  font-family: "Arial", sans-serif;
+}
+
+/* kartu */
+.kartu-nama {
+  background-color: #fdf6e3;
+  border: 3px solid #1a252f;
+  padding: 20px;
+  text-align: center;
+  font-size: 16px;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+}
+
+/* foto profil */
+.foto-profil {
+  width: 150px;
+  height: 150px;
+  max-width: 100%;
+  margin-bottom: 10px;
+  border: 2px solid #bdc3c7;
+  object-fit: cover;
+  object-position: center;
+}
+
+/* nama */
+.nama-lengkap {
+  font-size: 24px;
+  color: #2c3e50;
+}
+
+/* jabatan */
+.jabatan {
+  font-size: 18px;
+  color: #7f8c8d;
+}
+
+/* perusahaan */
+.perusahaan {
+  font-size: 16px;
+  color: #95a5a6;
+}
+
+/* paragraf */
+p {
+  margin: 5px 0;
+}
+
+/* link */
+a {
+  text-decoration: none;
+}
+
+/* portofolio */
+.tautan-portofolio {
+  display: inline-block;
+  margin: 5px 0;
+  color: #c0392b;
+}
+
+/* media sosial */
+.media-sosial {
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+/* judul sosmed */
+.media-sosial h2 {
+  font-size: 16px;
+  color: #2c3e50;
+  margin-bottom: 8px;
+}
+
+/* link sosmed horizontal */
+.media-sosial a {
+  display: inline-block;
+  margin: 0 10px;
+  color: #c0392b;
+}
+
+/* ikon sosmed */
+.media-sosial a i {
+  margin-right: 4px;
+}
+
+/* garis */
+hr {
+  margin: 20px 0;
+  border: none;
+  border-top: 1px solid #dcdcdc;
+}
